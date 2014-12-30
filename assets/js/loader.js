@@ -1,4 +1,4 @@
-var path = "/assets/";
+var path = "assets/";
 
 $LAB
   .script(path + 'bower/underscore/underscore.js').wait()

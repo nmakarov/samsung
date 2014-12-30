@@ -9,7 +9,7 @@ App.addInitializer(function () {
     showTablet: false,
 
     url: function () {
-      var url = '/assets/json/' + (this.showTablet ? 'tablets.json' : 'phones.json');
+      var url = 'assets/json/' + (this.showTablet ? 'tablets.json' : 'phones.json');
       return url;
     }
   });
@@ -26,7 +26,7 @@ App.addInitializer(function () {
       var $popup = $('#myModal');
       $popup.find('#modal-title').text(this.model.get('title'));
       $popup.find('#modal-description').text(this.model.get('description'));
-      $popup.find('#modal-img').attr('src', '/assets/' + this.model.get('img_url'));
+      $popup.find('#modal-img').attr('src', 'assets/' + this.model.get('img_url'));
       $popup.modal();
     }
   });
