@@ -1,0 +1,35 @@
+.header {
+  color: #308014;
+  height: 40px;
+  background-image: url(../img/logo.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+.header h1 {
+  float: right;
+  font-size: 1.6em;
+}
+.device-list .nav-tabs {
+  margin-bottom: 20px;
+}
+.device-list .item {
+  /*border: 1px solid black;*/
+}
+.device-list .item .caption {
+  text-align: center;
+  color: #308014;
+}
+.footer {
+  background-color: black;
+  color: white;
+}
+.row {
+  padding: 10px;
+}
+.modal-dialog #modal-title {
+  color: #308014;
+}
+.modal-dialog .modal-footer {
+  margin-right: 10px;
+  margin-left: 10px;
+}

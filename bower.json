@@ -1,0 +1,23 @@
+{
+  "name": "samsung",
+  "version": "0.0.1",
+  "authors": [
+    "Nick Makarov <nmakarov@gmail.com>"
+  ],
+  "description": "Assignment",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marionette": "~2.3.0",
+    "bootstrap": "~3.3.1",
+    "labjs": "*"
+  }
+}

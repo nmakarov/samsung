@@ -1,0 +1,24 @@
+[{
+  "title": "Galaxy Mega",
+  "img_url": "img/phones/galaxy_mega.jpeg",
+  "description": "The Samsung Galaxy MEGA’s impressive 6.3-inch display is built to impress. With a higher PPI than most tablets and a resolution that brings everything to life, its awesome screen is perfect for watching videos, surfing the web or beating the high score on your favourite game."
+}, {
+  "title": "Galaxy S4",
+  "img_url": "img/phones/galaxy_S4.jpeg",
+  "description": "The incredible full HD 1080p display always presents the best picture quality possible. By adjusting the screen’s brightness and contrast depending on the type of image you’re viewing, all of your HD videos and images are displayed brighter, sharper and easier on the eyes. With seven automatic modes and four manual modes, the Samsung Galaxy S4 consistently makes your content look its best."
+}, {
+  "title": "Galaxy S3",
+  "img_url": "img/phones/galaxy_S3.jpeg",
+  "description": "The Samsung Galaxy S III offers a superior mobile viewing experience. Whether it's photos, videos or games, content always looks premium on the 4.8' HD Super AMOLED display. The user-friendly screen size also lends itself well to Pop Up Play, a distinct picture-in-picture feature that allows you to watch videos while emailing, texting, or surfing."
+
+}, {
+  "title": "Galaxy S4 Mini",
+  "img_url": "img/phones/galaxy_S4_mini.jpeg",
+  "description": "While it might be small in size, this is a smartphone that has no problem getting noticed thanks to an eye-catching 4.3-inch Super AMOLED screen that bursts into life. So whether you’re browsing the web, playing a game or chatting with friends, you’ll experience it all through vivid colours and absolute clarity."
+
+}, {
+  "title": "Galaxy S3 Mini",
+  "img_url": "img/phones/galaxy_S3_mini.jpeg",
+  "description": "When you first pick up a Samsung Galaxy S III Mini, the first thing you’ll notice is how compact it feels. But while it might be small in size, it has no problem getting noticed thanks to an eye-catching 4-inch Super AMOLED screen that bursts into life. So whether you’re browsing the web, playing a game or chatting with friends, you’ll experience it all through vivid colours and absolute clarity."
+
+}]
